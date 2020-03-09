@@ -1,0 +1,38 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "chartList": [
+            {
+                "rain": "114156",
+                "name": "雨水泵站",
+                "sewage": "0"
+            },
+            {
+                "rain": "0",
+                "name": "污水泵站",
+                "sewage": "4964940.8"
+            },
+            {
+                "rain": "4020000",
+                "name": "合建泵站",
+                "sewage": "437100"
+            }
+        ],
+        "total": 83,
+        "infoList": [
+            {
+                "name": "雨水泵站",
+                "value": "3"
+            },
+            {
+                "name": "污水泵站",
+                "value": "76"
+            },
+            {
+                "name": "合建泵站",
+                "value": "4"
+            }
+        ]
+    }
+}

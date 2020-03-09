@@ -1,0 +1,14 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "bigMidCount": "16",
+        "small2Count": "84",
+        "totalStorage": "9.50",
+        "bigMidStorage": "73607.89",
+        "small1Count": "61",
+        "small1Storage": "19256",
+        "small2Storage": "3354",
+        "totalCount": "161"
+    }
+}

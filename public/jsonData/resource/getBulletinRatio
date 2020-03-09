@@ -1,0 +1,44 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "rainfall": {
+            "unit": "mm",
+            "sign": "minus",
+            "growth": "31.93%",
+            "value": "1852.39"
+        },
+        "waterResources": {
+            "unit": "亿m³",
+            "sign": "minus",
+            "growth": "35.59%",
+            "value": "19.58"
+        },
+        "watersSorage": {
+            "unit": "亿m³",
+            "sign": "minus",
+            "growth": "22.25",
+            "value": "1.73"
+        },
+        "waterSupply": {
+            "yearEnterpriseWaterSupply": {
+                "unit": "亿m³",
+                "sign": "plus",
+                "growth": "1.15%",
+                "value": "20.16"
+            },
+            "overseasWater": {
+                "unit": "亿m³",
+                "sign": "plus",
+                "growth": "1%",
+                "value": "1"
+            },
+            "enterpriseWaterSupply": {
+                "unit": "亿m³",
+                "sign": "plus",
+                "growth": "2.82%",
+                "value": "17.49"
+            }
+        }
+    }
+}

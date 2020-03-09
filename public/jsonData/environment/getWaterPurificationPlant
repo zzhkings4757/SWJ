@@ -1,0 +1,31 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "sewageTreatmentRate": "97",
+            "year": "2013",
+            "sewageTreatment": "16.95"
+        },
+        {
+            "sewageTreatmentRate": "96.5",
+            "year": "2014",
+            "sewageTreatment": "16.50"
+        },
+        {
+            "sewageTreatmentRate": "96.75",
+            "year": "2015",
+            "sewageTreatment": "16.24"
+        },
+        {
+            "sewageTreatmentRate": "96.72",
+            "year": "2016",
+            "sewageTreatment": "16.88"
+        },
+        {
+            "sewageTreatmentRate": "96.81",
+            "year": "2017",
+            "sewageTreatment": "16.14"
+        }
+    ]
+}

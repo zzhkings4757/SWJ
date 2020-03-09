@@ -1,0 +1,72 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "unit": "个",
+        "totalFloodingPumping": 0,
+        "totalDrainagePumping": 0,
+        "totalSluice": 139,
+        "list": [
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "罗湖",
+                "sluice": 13
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "福田",
+                "sluice": 6
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "南山",
+                "sluice": 6
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "宝安",
+                "sluice": 107
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "龙岗",
+                "sluice": 2
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "盐田",
+                "sluice": 2
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "光明",
+                "sluice": 3
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "坪山",
+                "sluice": 0
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "龙华",
+                "sluice": 0
+            },
+            {
+                "floodingPumping": 0,
+                "drainagePumping": 0,
+                "name": "大鹏",
+                "sluice": 0
+            }
+        ]
+    }
+}

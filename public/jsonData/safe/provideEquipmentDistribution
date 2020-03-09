@@ -1,0 +1,61 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "unit": "个",
+        "totalWaterPum": 25,
+        "list": [
+            {
+                "name": "罗湖",
+                "waterFactory": 5,
+                "waterPum": 4
+            },
+            {
+                "name": "福田",
+                "waterFactory": 2,
+                "waterPum": 2
+            },
+            {
+                "name": "南山",
+                "waterFactory": 4,
+                "waterPum": 9
+            },
+            {
+                "name": "宝安",
+                "waterFactory": 21,
+                "waterPum": 1
+            },
+            {
+                "name": "龙岗",
+                "waterFactory": 26,
+                "waterPum": 8
+            },
+            {
+                "name": "盐田",
+                "waterFactory": 7,
+                "waterPum": 1
+            },
+            {
+                "name": "光明",
+                "waterFactory": 8,
+                "waterPum": 0
+            },
+            {
+                "name": "坪山",
+                "waterFactory": 9,
+                "waterPum": 0
+            },
+            {
+                "name": "龙华",
+                "waterFactory": 0,
+                "waterPum": 0
+            },
+            {
+                "name": "大鹏",
+                "waterFactory": 0,
+                "waterPum": 0
+            }
+        ],
+        "totalWaterFactory": 82
+    }
+}

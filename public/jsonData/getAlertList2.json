@@ -1,0 +1,20 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"warn": [],
+		"alert": [
+			{
+				"stcd": "81106210",
+				"name": "九公坑水库",
+				"distCode": "440311",
+				"dist": "龙华区",
+				"value": 43.81,
+				"tm": "2019-05-06 17: 00: 00",
+				"alertValue": 44.09,
+				"exceed": -0.28
+			}
+		]
+	},
+	"success": true
+}

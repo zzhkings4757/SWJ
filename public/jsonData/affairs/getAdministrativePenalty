@@ -1,0 +1,22 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "name": "一季度",
+            "value": 13
+        },
+        {
+            "name": "二季度",
+            "value": 28
+        },
+        {
+            "name": "三季度",
+            "value": 17
+        },
+        {
+            "name": "四季度",
+            "value": 12
+        }
+    ]
+}

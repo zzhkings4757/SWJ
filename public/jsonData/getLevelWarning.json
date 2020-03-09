@@ -1,0 +1,24 @@
+{
+	"status": 1,
+	"message": "",
+	"data": [
+		{
+			"over": 0,
+			"normal": 131,
+			"yellowwarning": 1,
+			"name": "水库水位"
+		},
+		{
+			"over": 0,
+			"normal": 49,
+			"name": "河道水位",
+			"warning": 0
+		},
+		{
+			"over": 0,
+			"normal": 120,
+			"name": "积涝点水位",
+			"warning": 0
+		}
+	]
+}

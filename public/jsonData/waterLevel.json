@@ -1,0 +1,24 @@
+{
+	"status": 1,
+	"message": "",
+	"data": [
+		{
+			"waterkandname": "大中型",
+			"yellowwarning": 0,
+			"dangercount": 0,
+			"normalcount": 9
+		},
+		{
+			"waterkandname": "小（1）型",
+			"yellowwarning": 0,
+			"dangercount": 0,
+			"normalcount": 50
+		},
+		{
+			"waterkandname": "小（2）型",
+			"yellowwarning": 1,
+			"dangercount": 0,
+			"normalcount": 63
+		}
+	]
+}

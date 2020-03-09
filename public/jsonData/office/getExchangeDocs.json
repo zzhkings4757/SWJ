@@ -1,0 +1,83 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "oahome": "http://10.230.31.253:8091/spring/riseway/openTodo/home?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE",
+        "list": [
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61EFD-0000-0000-1459-33B70000045F}&rguid={09E61EFD-0000-0000-145C-A5540000047F}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2020-02-05T07:58:06.000+0000",
+                "SENDGUID": "{77DD1286-B54A-404B-8970-B54E92986765}",
+                "DOCGUID": "{09E61EFD-0000-0000-1459-33B70000045F}",
+                "RSTATE": "0",
+                "TITLE": "深圳市水务局关于印发新型冠状病毒感染的肺炎疫情防控工作方案的通知",
+                "SENDTIME": 1580889487000,
+                "SENDMAN": "张楚楚",
+                "RGUID": "{09E61EFD-0000-0000-145C-A5540000047F}"
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-0000-0000-6A71-430900003E1E}&rguid={09E61F40-0000-0000-6A73-277400003E6D}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2020-01-03T08:04:06.000+0000",
+                "SENDGUID": "{2954A0CF-67D4-4D94-ADE2-E200B4FAFF87}",
+                "DOCGUID": "{09E61F40-0000-0000-6A71-430900003E1E}",
+                "RSTATE": "0",
+                "TITLE": "关于印发局领导在2020年度工作务虚会上讲话要点的通知",
+                "SENDTIME": 1578038770000,
+                "SENDMAN": "李朋",
+                "RGUID": "{09E61F40-0000-0000-6A73-277400003E6D}"
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-FFFF-FFFF-EC5F-E9C4000036E8}&rguid={09E61F40-FFFF-FFFF-EC66-2EEC00003944}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2019-10-21T03:37:03.000+0000",
+                "SENDGUID": "{77DD1286-B54A-404B-8970-B54E92986765}",
+                "DOCGUID": "{09E61F40-FFFF-FFFF-EC5F-E9C4000036E8}",
+                "RSTATE": "0",
+                "TITLE": "关于印发深圳市水务局整治“文山会海”若干措施的通知",
+                "SENDTIME": 1571629023000,
+                "SENDMAN": "张楚楚",
+                "RGUID": "{09E61F40-FFFF-FFFF-EC66-2EEC00003944}"
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-0000-0000-13FD-E72000000573}&rguid={09E61F40-0000-0000-1503-F8B2000006A6}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2019-09-09T07:52:32.000+0000",
+                "SENDGUID": "{6C79F65A-E0EC-4B85-BE00-9294C5FA2633}",
+                "DOCGUID": "{09E61F40-0000-0000-13FD-E72000000573}",
+                "RSTATE": "1",
+                "TITLE": "深圳市水务工作联系电话号码（2019年9月）",
+                "SENDTIME": 1568015552000,
+                "SENDMAN": "张留兵",
+                "RGUID": "{09E61F40-0000-0000-1503-F8B2000006A6}"
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-0000-0000-6C03-A51D00001C8A}&rguid={09E61F40-0000-0000-6C05-A75500001CF5}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2019-04-30T02:11:19.000+0000",
+                "SENDGUID": "{BA3243C2-1EDE-48F3-9572-E50CE45C36C2}",
+                "DOCGUID": "{09E61F40-0000-0000-6C03-A51D00001C8A}",
+                "RSTATE": "0",
+                "TITLE": "深水污治指〔2019〕6号深圳市水污染治理指挥部印发《深圳市关于集中开展黑臭水体整治环保专项行动迎检宣传和舆情引导工作方案》的通知",
+                "SENDTIME": 1556590411000,
+                "SENDMAN": "吴楚轩",
+                "RGUID": "{09E61F40-0000-0000-6C05-A75500001CF5}"
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-0000-0000-61B6-99A600005F40}&rguid={09E61F40-0000-0000-61B8-B85900006045}",
+                "RECGUID": "{0E11582F-0000-0000-3F82-D55B00000055}",
+                "SUBTIME": "2019-04-28T06:50:34.000+0000",
+                "SENDGUID": "{6C79F65A-E0EC-4B85-BE00-9294C5FA2633}",
+                "DOCGUID": "{09E61F40-0000-0000-61B6-99A600005F40}",
+                "RSTATE": "1",
+                "TITLE": "关于加强水源大厦会议室管理有关事项的通知",
+                "SENDTIME": 1556434374000,
+                "SENDMAN": "张留兵",
+                "RGUID": "{09E61F40-0000-0000-61B8-B85900006045}"
+            }
+        ],
+        "moreurl": "http://10.230.31.253:8091/spring/riseway/openTodo/openExchangeDoc?token="
+    },
+    "success": true
+}

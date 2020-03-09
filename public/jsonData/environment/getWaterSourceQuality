@@ -1,0 +1,38 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "total": "9",
+            "type3": "1",
+            "type2": "2",
+            "month": "1月",
+            "rating": "100%",
+            "type1": "5"
+        },
+        {
+            "total": "10",
+            "type3": "2",
+            "type2": "5",
+            "month": "2月",
+            "rating": "100%",
+            "type1": "4"
+        },
+        {
+            "total": "10",
+            "type3": "1",
+            "type2": "6",
+            "month": "3月",
+            "rating": "100%",
+            "type1": "3"
+        },
+        {
+            "total": "10",
+            "type3": "0",
+            "type2": "9",
+            "month": "4月",
+            "rating": "100%",
+            "type1": "1"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "unit": "个",
+        "list": [
+            {
+                "riverway": 3,
+                "name": "罗湖",
+                "reservoir": 4,
+                "seawall": 0
+            },
+            {
+                "riverway": 4,
+                "name": "福田",
+                "reservoir": 3,
+                "seawall": 0
+            },
+            {
+                "riverway": 3,
+                "name": "南山",
+                "reservoir": 4,
+                "seawall": 0
+            },
+            {
+                "riverway": 13,
+                "name": "宝安",
+                "reservoir": 12,
+                "seawall": 5
+            },
+            {
+                "riverway": 17,
+                "name": "龙岗",
+                "reservoir": 47,
+                "seawall": 5
+            },
+            {
+                "riverway": 1,
+                "name": "盐田",
+                "reservoir": 13,
+                "seawall": 0
+            },
+            {
+                "riverway": 11,
+                "name": "光明",
+                "reservoir": 22,
+                "seawall": 0
+            },
+            {
+                "riverway": 8,
+                "name": "坪山",
+                "reservoir": 18,
+                "seawall": 0
+            },
+            {
+                "riverway": 11,
+                "name": "龙华",
+                "reservoir": 18,
+                "seawall": 0
+            },
+            {
+                "riverway": 7,
+                "name": "大鹏",
+                "reservoir": 26,
+                "seawall": 0
+            }
+        ],
+        "totalReservoir": 167,
+        "totalSeawall": 10,
+        "totalRiverway": 78
+    }
+}

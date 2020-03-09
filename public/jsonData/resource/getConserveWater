@@ -1,0 +1,15 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "ValueAddedWater": "5.62m3",
+        "GDPWater": "9.01m3",
+        "domesticWater": "160.37升/日",
+        "industrialWaterRate": "92.7%",
+        "waterWavingRate": "100%",
+        "year": "2017",
+        "recycling": "69%",
+        "perCapita": "444.31升/日",
+        "pipeWetworkRate": "10.66%"
+    }
+}

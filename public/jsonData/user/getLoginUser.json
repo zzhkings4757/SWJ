@@ -1,0 +1,13 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "deptName": "局领导",
+        "loginName": "张娟",
+        "groupId": 22,
+        "userName": "张娟",
+        "accessToken": "jZSFNIUlaHnJkbm9J%2BXru9RKqMpUTqltTJA3lXpOTHxAoHuZpOT9PBnGzDnakKVBphLDa%2FxV1YbW%0D%0AZ5OepYidjg%3D%3D",
+        "token": "689ab88d-d37f-4f2a-b6cc-f483726b73bd"
+    },
+    "success": true
+}

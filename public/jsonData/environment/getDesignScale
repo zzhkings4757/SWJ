@@ -1,0 +1,50 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "total": "32",
+        "designScale": "514.50",
+        "list": [
+            {
+                "area": "罗湖",
+                "areaDesignScale": "35"
+            },
+            {
+                "area": "福田",
+                "areaDesignScale": "70"
+            },
+            {
+                "area": "南山",
+                "areaDesignScale": "64"
+            },
+            {
+                "area": "宝安",
+                "areaDesignScale": "81.50"
+            },
+            {
+                "area": "龙岗",
+                "areaDesignScale": "122"
+            },
+            {
+                "area": "盐田",
+                "areaDesignScale": "12"
+            },
+            {
+                "area": "光明",
+                "areaDesignScale": "25"
+            },
+            {
+                "area": "坪山",
+                "areaDesignScale": "31"
+            },
+            {
+                "area": "龙华",
+                "areaDesignScale": "66"
+            },
+            {
+                "area": "大鹏",
+                "areaDesignScale": "9"
+            }
+        ]
+    }
+}

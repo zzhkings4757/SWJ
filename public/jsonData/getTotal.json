@@ -1,0 +1,13 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"fromOutside": 91.54,
+		"canSupply": 47,
+		"waterStorage": 26247.2,
+		"fromDongshen": 91.54,
+		"fromEast": 0.0,
+		"waterSupply": 554.94
+	},
+	"success": true
+}

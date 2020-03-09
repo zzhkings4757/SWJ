@@ -1,0 +1,320 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"normal": [{
+			"stcd": "81105890",
+			"name": "民乐水库",
+			"distCode": "440311",
+			"dist": "龙华区",
+			"yhfs": "开敞式溢洪道",
+			"value": 87.17,
+			"tm": "11-04 13:00",
+			"alertValue": 86.8,
+			"exceed": 0.37
+		}, {
+			"stcd": "81208500",
+			"name": "牛蜞坑水库",
+			"distCode": "440305",
+			"dist": "南山区",
+			"yhfs": "开敞式溢洪道",
+			"value": 12.06,
+			"tm": "11-04 12:55",
+			"alertValue": 12.04,
+			"exceed": 0.02
+		}],
+		"warn": [{
+			"stcd": "81105590",
+			"name": "盐田大水坑水库",
+			"distCode": "440308",
+			"dist": "盐田区",
+			"yhfs": "开敞式溢洪道",
+			"value": 317.59,
+			"tm": "11-04 12:55",
+			"alertValue": 317.6,
+			"exceed": -0.01
+		}, {
+			"stcd": "81208880",
+			"name": "禾镰坑水库",
+			"distCode": "440304",
+			"dist": "福田区",
+			"yhfs": "开敞式溢洪道",
+			"value": 48.988,
+			"tm": "11-04 17:05",
+			"alertValue": 49,
+			"exceed": -0.012
+		}, {
+			"stcd": "81209400",
+			"name": "仙湖下库",
+			"distCode": "440303",
+			"dist": "罗湖区",
+			"yhfs": "开敞式溢洪道",
+			"value": 52.4,
+			"tm": "11-04 12:55",
+			"alertValue": 52.42,
+			"exceed": -0.02
+		}, {
+			"stcd": "81106210",
+			"name": "九公坑水库",
+			"distCode": "440311",
+			"dist": "龙华区",
+			"yhfs": "开敞式溢洪道",
+			"value": 43.56,
+			"tm": "11-04 12:55",
+			"alertValue": 43.6,
+			"exceed": -0.04
+		}, {
+			"stcd": "81111930",
+			"name": "牛咀水库",
+			"distCode": "440311",
+			"dist": "龙华区",
+			"yhfs": "开敞式溢洪道",
+			"value": 89.81,
+			"tm": "11-04 13:00",
+			"alertValue": 90,
+			"exceed": -0.19
+		}, {
+			"stcd": "81209340",
+			"name": "横沥口水库",
+			"distCode": "440303",
+			"dist": "罗湖区",
+			"yhfs": "开敞式溢洪道",
+			"value": 93.75,
+			"tm": "11-04 12:55",
+			"alertValue": 94,
+			"exceed": -0.25
+		}, {
+			"stcd": "81604400",
+			"name": "猪头山水库",
+			"distCode": "440312",
+			"dist": "大鹏新区",
+			"yhfs": "开敞式溢洪道",
+			"value": 45.93,
+			"tm": "11-04 12:55",
+			"alertValue": 46.2,
+			"exceed": -0.27
+		}, {
+			"stcd": "81106030",
+			"name": "托坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 81.72,
+			"tm": "11-04 12:55",
+			"alertValue": 82,
+			"exceed": -0.28
+		}, {
+			"stcd": "81603250",
+			"name": "大鹏大坑水库",
+			"distCode": "440312",
+			"dist": "大鹏新区",
+			"yhfs": "开敞式溢洪道",
+			"value": 30.29,
+			"tm": "11-04 12:55",
+			"alertValue": 30.6,
+			"exceed": -0.31
+		}, {
+			"stcd": "81209760",
+			"name": "小坑水库",
+			"distCode": "440303",
+			"dist": "罗湖区",
+			"yhfs": "开敞式溢洪道",
+			"value": 70.63,
+			"tm": "11-04 12:55",
+			"alertValue": 71,
+			"exceed": -0.37
+		}, {
+			"stcd": "81617160",
+			"name": "径心水库",
+			"distCode": "440312",
+			"dist": "大鹏新区",
+			"yhfs": null,
+			"value": 99.6,
+			"tm": "11-04 12:55",
+			"alertValue": 100,
+			"exceed": -0.4
+		}, {
+			"stcd": "81212280",
+			"name": "三联水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 52.54,
+			"tm": "11-04 13:00",
+			"alertValue": 52.94,
+			"exceed": -0.4
+		}, {
+			"stcd": "81105450",
+			"name": "坪地黄竹坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 53.54,
+			"tm": "11-04 12:55",
+			"alertValue": 54,
+			"exceed": -0.46
+		}, {
+			"stcd": "81207560",
+			"name": "罗仔坑水库",
+			"distCode": "440309",
+			"dist": "光明区",
+			"yhfs": null,
+			"value": 29.98,
+			"tm": "11-04 12:55",
+			"alertValue": 30.5,
+			"exceed": -0.52
+		}, {
+			"stcd": "81106060",
+			"name": "冼屋水库",
+			"distCode": "440311",
+			"dist": "龙华区",
+			"yhfs": "开敞式溢洪道",
+			"value": 55.44,
+			"tm": "11-04 13:00",
+			"alertValue": 56,
+			"exceed": -0.56
+		}, {
+			"stcd": "81112055",
+			"name": "苗坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 71.4,
+			"tm": "11-04 12:55",
+			"alertValue": 72,
+			"exceed": -0.6
+		}, {
+			"stcd": "81105940",
+			"name": "坂田正坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 98,
+			"tm": "11-04 12:55",
+			"alertValue": 98.6,
+			"exceed": -0.6
+		}, {
+			"stcd": "81105470",
+			"name": "田祖上水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 45.72,
+			"tm": "11-04 12:55",
+			"alertValue": 46.4,
+			"exceed": -0.68
+		}, {
+			"stcd": "81105910",
+			"name": "雅宝水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 103.92,
+			"tm": "11-04 12:55",
+			"alertValue": 104.6,
+			"exceed": -0.68
+		}, {
+			"stcd": "81105390",
+			"name": "上禾塘水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 50.77,
+			"tm": "11-04 12:55",
+			"alertValue": 51.51,
+			"exceed": -0.74
+		}, {
+			"stcd": "81105530",
+			"name": "企炉坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 39.76,
+			"tm": "11-04 12:55",
+			"alertValue": 40.5,
+			"exceed": -0.74
+		}, {
+			"stcd": "81111660",
+			"name": "跃进水库",
+			"distCode": "440308",
+			"dist": "盐田区",
+			"yhfs": "开敞式溢洪道",
+			"value": 356.49,
+			"tm": "11-04 12:55",
+			"alertValue": 357.28,
+			"exceed": -0.79
+		}, {
+			"stcd": "81604270",
+			"name": "响水水库",
+			"distCode": "440312",
+			"dist": "大鹏新区",
+			"yhfs": "开敞式溢洪道",
+			"value": 83.06,
+			"tm": "11-04 12:55",
+			"alertValue": 84,
+			"exceed": -0.94
+		}, {
+			"stcd": "81105520",
+			"name": "三坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 55.05,
+			"tm": "11-04 12:55",
+			"alertValue": 56,
+			"exceed": -0.95
+		}, {
+			"stcd": "81105180",
+			"name": "南风坳水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "非开敞式溢洪道",
+			"value": 74.74,
+			"tm": "11-04 12:55",
+			"alertValue": 75.69,
+			"exceed": -0.95
+		}, {
+			"stcd": "81105430",
+			"name": "坪地长坑水库",
+			"distCode": "440307",
+			"dist": "龙岗区",
+			"yhfs": "开敞式溢洪道",
+			"value": 49.28,
+			"tm": "11-04 12:55",
+			"alertValue": 50.25,
+			"exceed": -0.97
+		}, {
+			"stcd": "81105660",
+			"name": "坪山横坑水库",
+			"distCode": "440310",
+			"dist": "坪山区",
+			"yhfs": null,
+			"value": 66.41,
+			"tm": "11-04 12:50",
+			"alertValue": 67.4,
+			"exceed": -0.99
+		}],
+		"alert": [{
+			"stcd": "81105890",
+			"name": "民乐水库",
+			"distCode": "440311",
+			"dist": "龙华区",
+			"yhfs": "开敞式溢洪道",
+			"value": 87.17,
+			"tm": "11-04 13:00",
+			"alertValue": 86.8,
+			"exceed": 0.37
+		}, {
+			"stcd": "81208500",
+			"name": "牛蜞坑水库",
+			"distCode": "440305",
+			"dist": "南山区",
+			"yhfs": "开敞式溢洪道",
+			"value": 12.06,
+			"tm": "11-04 12:55",
+			"alertValue": 12.04,
+			"exceed": 0.02
+		}]
+	},
+	"success": true
+}

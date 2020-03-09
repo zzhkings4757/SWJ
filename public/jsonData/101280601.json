@@ -1,0 +1,17 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"weatherinfo": {
+			"city": "深圳",
+			"weather": "阵雨转大雨",
+			"cityid": "101280601",
+			"temp2": "30℃",
+			"ptime": "18:00",
+			"img2": "d9.gif",
+			"temp1": "24℃",
+			"img1": "n3.gif"
+		}
+	},
+	"success": true
+}

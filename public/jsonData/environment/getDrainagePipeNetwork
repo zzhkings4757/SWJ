@@ -1,0 +1,11 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "wuShuiGuan": "5490.32",
+        "drainageTotalCount": "13815.37",
+        "yuShui": "7001.24",
+        "jieLiuGuan": "231.28",
+        "heLiuGuan": "1092.53"
+    }
+}

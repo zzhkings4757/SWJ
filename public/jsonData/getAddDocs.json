@@ -1,0 +1,30 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"add": 4,
+		"公文办理": [{
+				"OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-F0C5-D03400004625}",
+				"DATE": "2020-02-29",
+				"TITLE": "关于进一步做好新型冠状病毒感染的肺炎防控工作的紧急通知"
+			},
+			{
+				"OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-EFCB-AA3D00003F3A}",
+				"DATE": "2020-02-29",
+				"TITLE": "关于进一步做好人员疫情信息统计报送工作的通知"
+			}
+		],
+		"公文交换": [{
+				"OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61F40-FFFF-FFFF-89AD-0E5100004D0A}&rguid={09E61F40-FFFF-FFFF-89AE-AA4100004CCC}",
+				"DATE": "2020-02-29",
+				"TITLE": "关于向局档案室移交归档资料的通知"
+			},
+			{
+				"OPENURL": "http://10.230.31.253:8091/exchangedocnew/docShow.jsp?guid={09E61EFD-0000-0000-1459-33B70000045F}&rguid={09E61EFD-0000-0000-145C-A5540000047F}",
+				"DATE": "2020-02-28",
+				"TITLE": "深圳市水务局关于印发新型冠状病毒感染的肺炎疫情防控工作方案的通知"
+			}
+		]
+	},
+	"success": true
+}

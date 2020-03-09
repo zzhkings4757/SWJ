@@ -1,0 +1,56 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "oahome": "http://10.230.31.253:8091/spring/riseway/openTodo/home?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE",
+        "list": [
+            {
+                "JINJICHENGDU": "特急",
+                "WORKFLOWINSTANCE_GUID": "09E61EFD-FFFF-FFFF-FDE7-B3E8000058A7",
+                "UDPATETIME": 1580529922000,
+                "OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-FDE7-B3E8000058A7}",
+                "OAURL": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE&id=09E61EFD-FFFF-FFFF-FDE7-B3E8000058A7",
+                "APPNAME": "对外发文",
+                "TITLE": "介绍信"
+            },
+            {
+                "JINJICHENGDU": "特急",
+                "WORKFLOWINSTANCE_GUID": "09E61EFD-FFFF-FFFF-F0C5-D03400004625",
+                "UDPATETIME": 1580309733000,
+                "OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-F0C5-D03400004625}",
+                "OAURL": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE&id=09E61EFD-FFFF-FFFF-F0C5-D03400004625",
+                "APPNAME": "对外发文",
+                "TITLE": "关于进一步做好新型冠状病毒感染的肺炎防控工作的紧急通知"
+            },
+            {
+                "JINJICHENGDU": "特急",
+                "WORKFLOWINSTANCE_GUID": "09E61EFD-FFFF-FFFF-EFCB-AA3D00003F3A",
+                "UDPATETIME": 1580293528000,
+                "OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-EFCB-AA3D00003F3A}",
+                "OAURL": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE&id=09E61EFD-FFFF-FFFF-EFCB-AA3D00003F3A",
+                "APPNAME": "对外发文",
+                "TITLE": "关于进一步做好人员疫情信息统计报送工作的通知"
+            },
+            {
+                "JINJICHENGDU": "特急",
+                "WORKFLOWINSTANCE_GUID": "09E61EFD-FFFF-FFFF-E8D5-D84D0000321B",
+                "UDPATETIME": 1580176367000,
+                "OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-E8D5-D84D0000321B}",
+                "OAURL": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE&id=09E61EFD-FFFF-FFFF-E8D5-D84D0000321B",
+                "APPNAME": "对外发文",
+                "TITLE": "深圳市水务局关于做好2020年春节延长假期值班工作的通知"
+            },
+            {
+                "JINJICHENGDU": "特急",
+                "WORKFLOWINSTANCE_GUID": "09E61EFD-FFFF-FFFF-DC25-650000001EE1",
+                "UDPATETIME": 1579946582000,
+                "OPENURL": "http://10.230.31.253:8091/riseoffice/default/openInstanceAction.do?folder=todo&&instanceGUID={09E61EFD-FFFF-FFFF-DC25-650000001EE1}",
+                "OAURL": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE&id=09E61EFD-FFFF-FFFF-DC25-650000001EE1",
+                "APPNAME": "对外发文",
+                "TITLE": "关于成立深圳市水务局防控新型冠状病毒感染的肺炎疫情工作领导小组的通知"
+            }
+        ],
+        "moreurl": "http://10.230.31.253:8091/spring/riseway/openTodo/office?token="
+    },
+    "success": true
+}

@@ -1,0 +1,150 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "xzxkList": {
+            "size": 9,
+            "name": "行政许可",
+            "list": [
+                {
+                    "taskName": "建筑工程施工许可证核发",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30114001003",
+                    "imageurl": "/image/WaterAffair/建筑工程施工许可证颁发.png"
+                },
+                {
+                    "taskName": "污水排入排水管网许可证核发",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30114018000",
+                    "imageurl": "/image/WaterAffair/污水排入排水管网许可证颁发.png"
+                },
+                {
+                    "taskName": "迁移、移动城镇排水与污水处理设施方案审核",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30114033002",
+                    "imageurl": "/image/WaterAffair/迁移、移动城镇排水与污水处理设施.png"
+                },
+                {
+                    "taskName": "水利工程管理和保护范围内新建、扩建、改建的工程建设项目方案审批",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116001000",
+                    "imageurl": "/image/WaterAffair/水利工程管理和保护范围内.png"
+                },
+                {
+                    "taskName": "取水许可",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116004000",
+                    "imageurl": "/image/WaterAffair/取水许可.png"
+                },
+                {
+                    "taskName": "生产建设项目水土保持方案审批",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116005000",
+                    "imageurl": "/image/WaterAffair/生产建设项目水土保持方案审批.png"
+                },
+                {
+                    "taskName": "洪水影响评价审批",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116006000",
+                    "imageurl": "/image/WaterAffair/洪水影响评价审批.png"
+                },
+                {
+                    "taskName": "水利工程初步设计文件审批",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116007000",
+                    "imageurl": "/image/WaterAffair/水利工程初步设计文件审批.png"
+                },
+                {
+                    "taskName": "滩涂开发利用方案审核",
+                    "taskTypeText": "行政许可",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30116013000",
+                    "imageurl": "/image/WaterAffair/滩涂开发利用方案审核.png"
+                }
+            ]
+        },
+        "xzqrList": {
+            "size": 3,
+            "name": "行政确认",
+            "list": [
+                {
+                    "taskName": "对水行政主管部门管辖的水利工程降等与报废的审批",
+                    "taskTypeText": "行政确认",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30716001000",
+                    "imageurl": "/image/WaterAffair/对水行政主管部门管辖的水利工程.png"
+                },
+                {
+                    "taskName": "对水行政主管部门管辖的水库大坝、水闸安全鉴定意见的审定",
+                    "taskTypeText": "行政确认",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30716003000",
+                    "imageurl": "/image/WaterAffair/对水行政主管部门管辖的水库大坝.png"
+                },
+                {
+                    "taskName": "对水行政主管部门管辖的水库大坝、水闸的注册登记",
+                    "taskTypeText": "行政确认",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q30716004000",
+                    "imageurl": "/image/WaterAffair/对水行政主管部门管辖的水库大坝.png"
+                }
+            ]
+        },
+        "qtList": {
+            "size": 9,
+            "name": "其他行政权力",
+            "list": [
+                {
+                    "taskName": "城镇排水与污水处理设施竣工验收报告及相关资料备案",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32014047000",
+                    "imageurl": "/image/WaterAffair/对城镇排水和污水处理设施竣工报告.png"
+                },
+                {
+                    "taskName": "对重点用水单位水平衡测试结果的备案",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016015000",
+                    "imageurl": "/image/WaterAffair/对重点用水单位平衡测试结果的备案.png"
+                },
+                {
+                    "taskName": "对重点用水单位用水计划的核定下达",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016020000",
+                    "imageurl": "/image/WaterAffair/对重点用水单位用水计划的核定下达.png"
+                },
+                {
+                    "taskName": "对水利工程建设项目的政府验收",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016026000",
+                    "imageurl": "/image/WaterAffair/对水利工程建设项目的政府验收.png"
+                },
+                {
+                    "taskName": "对水利工程开工情况的备案",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016027000",
+                    "imageurl": "/image/WaterAffair/对水利工程开工的审查.png"
+                },
+                {
+                    "taskName": "对水利工程建设项目法人验收工作计划、法人验收鉴定书的备案",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016032000",
+                    "imageurl": "/image/WaterAffair/对水利工程建设项目法人验收工作计划.png"
+                },
+                {
+                    "taskName": "对水土保持设施验收材料的报备",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016039000",
+                    "imageurl": "/image/WaterAffair/对水土保持设施验收材料的报备.png"
+                },
+                {
+                    "taskName": "对覆盖或者填堵河道必要性和唯一性的审查",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016056000",
+                    "imageurl": "/image/WaterAffair/对覆盖或者填堵河道必要性和唯一性的审查.png"
+                },
+                {
+                    "taskName": "建设项目用水节水评估报告备案",
+                    "taskTypeText": "其他行政权力",
+                    "taskUrl": "http://www.gdzwfw.gov.cn/portal/guide/11440300007541512Q32016057000",
+                    "imageurl": "/image/WaterAffair/建设项目用水节水评估报告备案.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "unit": "个",
+        "data": [
+            {
+                "name": "罗湖",
+                "value": 10.0
+            },
+            {
+                "name": "福田",
+                "value": 12.0
+            },
+            {
+                "name": "南山",
+                "value": 13.0
+            },
+            {
+                "name": "宝安",
+                "value": 27.0
+            },
+            {
+                "name": "龙岗",
+                "value": 22.0
+            },
+            {
+                "name": "盐田",
+                "value": 7.0
+            },
+            {
+                "name": "光明",
+                "value": 6.0
+            },
+            {
+                "name": "坪山",
+                "value": 8.0
+            },
+            {
+                "name": "龙华",
+                "value": 5.0
+            },
+            {
+                "name": "大鹏",
+                "value": 3.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "sDomaincode": "phtem",
+            "sDomaincaption": "水温"
+        },
+        {
+            "sDomaincode": "ss",
+            "sDomaincaption": "SS"
+        },
+        {
+            "sDomaincode": "B01",
+            "sDomaincaption": "瞬时流量"
+        },
+        {
+            "sDomaincode": "060",
+            "sDomaincaption": "氨氮"
+        },
+        {
+            "sDomaincode": "cn",
+            "sDomaincaption": "氰化物"
+        },
+        {
+            "sDomaincode": "do",
+            "sDomaincaption": "溶解氧"
+        },
+        {
+            "sDomaincode": "phe",
+            "sDomaincaption": "挥发酚"
+        },
+        {
+            "sDomaincode": "cond",
+            "sDomaincaption": "电导率"
+        },
+        {
+            "sDomaincode": "031",
+            "sDomaincaption": "总锰"
+        },
+        {
+            "sDomaincode": "020",
+            "sDomaincaption": "总汞"
+        },
+        {
+            "sDomaincode": "065",
+            "sDomaincaption": "总氮"
+        },
+        {
+            "sDomaincode": "011",
+            "sDomaincaption": "CODcr"
+        },
+        {
+            "sDomaincode": "023",
+            "sDomaincaption": "总铬"
+        },
+        {
+            "sDomaincode": "001",
+            "sDomaincaption": "pH"
+        },
+        {
+            "sDomaincode": "101",
+            "sDomaincaption": "总磷"
+        },
+        {
+            "sDomaincode": "015",
+            "sDomaincaption": "总有机碳"
+        },
+        {
+            "sDomaincode": "water_depth",
+            "sDomaincaption": "水深"
+        },
+        {
+            "sDomaincode": "026",
+            "sDomaincaption": "总砷"
+        },
+        {
+            "sDomaincode": "028",
+            "sDomaincaption": "总镍"
+        },
+        {
+            "sDomaincode": "029",
+            "sDomaincaption": "总铜"
+        },
+        {
+            "sDomaincode": "water_speed",
+            "sDomaincaption": "流速"
+        },
+        {
+            "sDomaincode": "B01TOTAL",
+            "sDomaincaption": "累积流量"
+        }
+    ]
+}

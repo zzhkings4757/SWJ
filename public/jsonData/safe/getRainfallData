@@ -1,0 +1,113 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "unit": "mm",
+        "list": [
+            {
+                "codename": null,
+                "val": 0.7,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "08"
+            },
+            {
+                "codename": null,
+                "val": 0.6,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "09"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "10"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "11"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "12"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "13"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "14"
+            },
+            {
+                "codename": null,
+                "val": 0.1,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "15"
+            },
+            {
+                "codename": null,
+                "val": 0.7,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "16"
+            },
+            {
+                "codename": null,
+                "val": 0.8,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "17"
+            },
+            {
+                "codename": null,
+                "val": 0.6,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "18"
+            },
+            {
+                "codename": null,
+                "val": 0.3,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "19"
+            },
+            {
+                "codename": null,
+                "val": 0.0,
+                "dt": null,
+                "qy": null,
+                "sindex": null,
+                "timePart": "20"
+            }
+        ]
+    }
+}

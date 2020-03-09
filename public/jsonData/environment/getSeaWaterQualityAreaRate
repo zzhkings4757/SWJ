@@ -1,0 +1,9 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "date": "2017年度",
+        "worseThan4Quality": "53.3%",
+        "betterThan4Quality": "46.7%"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "total": "7",
+        "list": [
+            {
+                "area": "深南电",
+                "areaSludgeProcessingPower": "400"
+            },
+            {
+                "area": "蛇口",
+                "areaSludgeProcessingPower": "30"
+            },
+            {
+                "area": "横岭减量化",
+                "areaSludgeProcessingPower": "600"
+            },
+            {
+                "area": "南山减量化",
+                "areaSludgeProcessingPower": "400"
+            },
+            {
+                "area": "福田减量化",
+                "areaSludgeProcessingPower": "525"
+            },
+            {
+                "area": "罗芳减量化",
+                "areaSludgeProcessingPower": "300"
+            },
+            {
+                "area": "盐田减量化",
+                "areaSludgeProcessingPower": "100"
+            }
+        ],
+        "sludgeProcessingPower": "2355"
+    }
+}

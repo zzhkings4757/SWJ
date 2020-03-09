@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "oahome": "http://10.230.31.253:8091/spring/riseway/openTodo/home?token=jZSFNIUlaHnJkbm9J%2BXruzxOzRRFaZasY4es9Ngmlrc9GzpnOoCG2Bxxq8GMutkE",
+        "list": [
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-0000-0000-2E64-C9CB00001D24}",
+                "FROMDATE": 1581264000000,
+                "CREATEDATE": 1581326220000,
+                "TITLE": "（2月10日-2月16日）领导政务活动周表",
+                "ID": "09E61F40-0000-0000-2E64-C9CB00001D24",
+                "ENDDATE": 1581782400000
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-0000-0000-2E42-0D99000015E4}",
+                "FROMDATE": 1580659200000,
+                "CREATEDATE": 1581323878000,
+                "TITLE": "（2月3日-2月9日）领导政务活动周表",
+                "ID": "09E61F40-0000-0000-2E42-0D99000015E4",
+                "ENDDATE": 1581177600000
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-FFFF-FFFF-C5DB-5A2500002830}",
+                "FROMDATE": 1580054400000,
+                "CREATEDATE": 1579589098000,
+                "TITLE": "（1月27日-2月2日）领导政务活动周表",
+                "ID": "09E61F40-FFFF-FFFF-C5DB-5A2500002830",
+                "ENDDATE": 1580572800000
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-FFFF-FFFF-C5D6-E1010000272E}",
+                "FROMDATE": 1579449600000,
+                "CREATEDATE": 1579588870000,
+                "TITLE": "（1月20日-1月26日）领导政务活动周表",
+                "ID": "09E61F40-FFFF-FFFF-C5D6-E1010000272E",
+                "ENDDATE": 1579968000000
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-FFFF-FFFF-A710-7FC400001B9C}",
+                "FROMDATE": 1578844800000,
+                "CREATEDATE": 1579055721000,
+                "TITLE": "（1月13-1月19日）领导政务活动周表",
+                "ID": "09E61F40-FFFF-FFFF-A710-7FC400001B9C",
+                "ENDDATE": 1579363200000
+            },
+            {
+                "OPENURL": "http://10.230.31.253:8091/spring/weekTable/showWeekTableDetailRead.do?id={09E61F40-FFFF-FFFF-81A7-78380000018D}",
+                "FROMDATE": 1578240000000,
+                "CREATEDATE": 1578444859000,
+                "TITLE": "（1月6日-1月12日）领导政务活动周表",
+                "ID": "09E61F40-FFFF-FFFF-81A7-78380000018D",
+                "ENDDATE": 1578758400000
+            }
+        ],
+        "moreurl": "http://10.230.31.253:8091/spring/riseway/openTodo/plan?token="
+    },
+    "success": true
+}

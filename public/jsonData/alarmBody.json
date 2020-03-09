@@ -1,0 +1,31 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"maxT": "28.0",
+		"icon": "http://weather.sz.gov.cn/images/11.png",
+		"yc": "12:55",
+		"menu": "今天晚上到明天白天",
+		"aqihtml": "良",
+		"pubDate": "11月04日 15:25",
+		"nextIcon": "http://weather.sz.gov.cn/images/01.png",
+		"minT": "21.0",
+		"rc": "06:29",
+		"hour_frame": "(今日20时-明天20时)",
+		"yl": "-",
+		"weatherBackImg": "",
+		"report": "晴天干燥；气温21-28℃；东北风3级，阵风6级；相对湿度45%-75% ",
+		"rl": "17:44",
+		"subAlarmAry": [{
+			"date": "2019-10-19 08:30:00",
+			"str": "【深圳市森林火险黄色预警】自15日起我市已持续出现干燥天气，预计未来3-4天干燥天气持续，深圳市气象台于2019年10月19日08时30分在全市陆地发布森林火险黄色预警，有关主管部门加大巡山护林力度，严格管制野外火源。",
+			"alarmType": "森林火险",
+			"weatherIcon": "http://weather.sz.gov.cn/images/senlinhuoxianhuangse.png",
+			"alarmColor": "黄色",
+			"ifTyphoon": 0,
+			"alarmArea": "全市陆地"
+		}],
+		"ingnalNum": "33554432"
+	},
+	"success": true
+}

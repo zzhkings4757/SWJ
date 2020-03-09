@@ -1,0 +1,26 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "sludgeTreatment": "86.45",
+            "year": "2013"
+        },
+        {
+            "sludgeTreatment": "79.45",
+            "year": "2014"
+        },
+        {
+            "sludgeTreatment": "90.23",
+            "year": "2015"
+        },
+        {
+            "sludgeTreatment": "73.09",
+            "year": "2016"
+        },
+        {
+            "sludgeTreatment": "94.31",
+            "year": "2017"
+        }
+    ]
+}

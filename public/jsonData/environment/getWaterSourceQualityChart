@@ -1,0 +1,26 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "standardRate": "100%",
+            "month": "1月",
+            "betterThan2": "77.78%"
+        },
+        {
+            "standardRate": "100%",
+            "month": "2月",
+            "betterThan2": "90.00%"
+        },
+        {
+            "standardRate": "100%",
+            "month": "3月",
+            "betterThan2": "90.00%"
+        },
+        {
+            "standardRate": "100%",
+            "month": "4月",
+            "betterThan2": "100.00%"
+        }
+    ]
+}

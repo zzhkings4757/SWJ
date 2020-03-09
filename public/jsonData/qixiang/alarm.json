@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "subAlarm": [],
+        "warnpre": {
+            "flagindex": 0
+        },
+        "oldPic": "202002/80485_old.png",
+        "sshzqAlarm": [],
+        "alarmInfo": "【深圳市取消森林火险预警】干燥天气已经缓解，深圳市气象台于2020年02月03日20时30分在全市陆地取消森林火险预警。\n",
+        "alarmDate": "2020-02-03 20:30:00",
+        "ingnalNum": "0",
+        "recID": "80485"
+    },
+    "success": true
+}

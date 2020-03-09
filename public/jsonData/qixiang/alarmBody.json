@@ -1,0 +1,22 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "maxT": "21.0",
+        "icon": "http://weather.sz.gov.cn/images/12_2.png",
+        "yc": "21:33",
+        "menu": "今天晚上到明天白天",
+        "aqihtml": "优",
+        "pubDate": "02月12日 15:45",
+        "nextIcon": "http://weather.sz.gov.cn/images/09.png",
+        "minT": "17.0",
+        "rc": "06:57",
+        "hour_frame": "(今日20时-明天20时)",
+        "yl": "09:15",
+        "weatherBackImg": "",
+        "report": "夜间多云，有分散小雨、轻雾或雾，明天白天阴天间多云，有大雨到暴雨，伴有短时强降水和雷暴；气温17-21℃；偏南风3级；相对湿度80%-95%",
+        "rl": "18:18",
+        "subAlarmAry": ""
+    },
+    "success": true
+}

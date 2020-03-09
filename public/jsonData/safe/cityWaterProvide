@@ -1,0 +1,14 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "waterGuanWang": "1.65",
+        "waterTesting": "2",
+        "waterPlant": "52",
+        "homeProject": "311",
+        "reconProject": "312",
+        "standardDis": "120",
+        "waterBility": "100%",
+        "waterSupply": "700"
+    }
+}

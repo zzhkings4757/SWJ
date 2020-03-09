@@ -1,0 +1,61 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "type5": "9",
+            "type4": "17",
+            "total": "310",
+            "type3": "43",
+            "type2": "19",
+            "month": "1月",
+            "type6": "177",
+            "monitor": "267",
+            "type1": "2"
+        },
+        {
+            "type5": "9",
+            "type4": "17",
+            "total": "310",
+            "type3": "43",
+            "type2": "19",
+            "month": "3月",
+            "type6": "177",
+            "monitor": "267",
+            "type1": "2"
+        },
+        {
+            "type5": "19",
+            "type4": "40",
+            "total": "310",
+            "type3": "11",
+            "type2": "14",
+            "month": "5月",
+            "type6": "156",
+            "monitor": "240",
+            "type1": "0"
+        },
+        {
+            "type5": "19",
+            "type4": "36",
+            "total": "310",
+            "type3": "57",
+            "type2": "0",
+            "month": "7月",
+            "type6": "167",
+            "monitor": "279",
+            "type1": "0"
+        },
+        {
+            "type5": "13",
+            "type4": "39",
+            "total": "310",
+            "type3": "85",
+            "type2": "0",
+            "month": "9月",
+            "type6": "161",
+            "monitor": "298",
+            "type1": "0"
+        }
+    ]
+}

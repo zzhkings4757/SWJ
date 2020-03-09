@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "numberPipe": "68",
+        "textDescription": "2019年4月，我局抽检的全市42个出厂水水样和68个管网水水样的浑浊度、消毒剂、色度、菌落总数、总大肠菌数及臭和味共6项常规指标全部合格。",
+        "yearDate": "2019年2月",
+        "waterRate": "100%",
+        "pipelineRate": "100%",
+        "numberWater": "42"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "average": 0.31,
+        "unit": "mm",
+        "data": [
+            {
+                "codename": null,
+                "val": 2.6,
+                "dt": null,
+                "qy": "罗湖",
+                "sindex": 1,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 2.0,
+                "dt": null,
+                "qy": "福田",
+                "sindex": 2,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 4.7,
+                "dt": null,
+                "qy": "南山",
+                "sindex": 3,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 8.1,
+                "dt": null,
+                "qy": "宝安",
+                "sindex": 4,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 7.8,
+                "dt": null,
+                "qy": "龙岗",
+                "sindex": 5,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 2.0,
+                "dt": null,
+                "qy": "盐田",
+                "sindex": 6,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 4.3,
+                "dt": null,
+                "qy": "光明",
+                "sindex": 7,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 1.0,
+                "dt": null,
+                "qy": "坪山",
+                "sindex": 8,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 3.9,
+                "dt": null,
+                "qy": "龙华",
+                "sindex": 9,
+                "timePart": null
+            },
+            {
+                "codename": null,
+                "val": 2.3,
+                "dt": null,
+                "qy": "大鹏",
+                "sindex": 10,
+                "timePart": null
+            }
+        ]
+    }
+}

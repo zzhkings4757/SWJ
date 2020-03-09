@@ -1,0 +1,38 @@
+{
+	"status": 1,
+	"message": "",
+	"data": {
+		"unit": "mg/L",
+		"sewageCODdeep": [{
+			"name": "罗湖",
+			"value": 127.55
+		}, {
+			"name": "福田",
+			"value": 268.28
+		}, {
+			"name": "南山",
+			"value": 237.19
+		}, {
+			"name": "宝安",
+			"value": 303.99
+		}, {
+			"name": "龙岗",
+			"value": 232.8
+		}, {
+			"name": "盐田",
+			"value": 220.02
+		}, {
+			"name": "光明",
+			"value": 343.9
+		}, {
+			"name": "坪山",
+			"value": 184.81
+		}, {
+			"name": "龙华",
+			"value": 341.55
+		}, {
+			"name": "大鹏",
+			"value": 122.56
+		}]
+	}
+}

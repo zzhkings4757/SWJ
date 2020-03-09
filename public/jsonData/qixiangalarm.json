@@ -1,0 +1,41 @@
+{
+	"code": 0,
+	"msg": "OK",
+	"data": {
+		"subAlarm": [{
+			"date": "2019-10-19 08:30:00",
+			"str": "【深圳市森林火险黄色预警】自15日起我市已持续出现干燥天气，预计未来3-4天干燥天气持续，深圳市气象台于2019年10月19日08时30分在全市陆地发布森林火险黄色预警，有关主管部门加大巡山护林力度，严格管制野外火源。",
+			"alarmType": "森林火险",
+			"icon": "http://weather.sz.gov.cn/images/senlinhuoxianhuangse.png",
+			"pic": "201910/53569.png",
+			"ingnalnum": 33554432,
+			"picS": "201910/53569_Small.png",
+			"alarmColor": "黄色",
+			"recID": 79985,
+			"ifTyphoon": 0,
+			"alarmArea": "全市陆地",
+			"order": 21
+		}],
+		"warnpre": {
+			"flagindex": 0
+		},
+		"oldPic": "201910/79985_old.png",
+		"sshzqAlarm": [{
+			"date": "2019-10-29 09:50:00",
+			"str": "深汕特别区在2019年10月29日9时50分发布了森林火险橙色预警。",
+			"alarmType": "森林火险",
+			"icon": "http://weather.sz.gov.cn/images/senlinhuoxianchengse.png",
+			"ingnalnum": 0,
+			"alarmColor": "橙色",
+			"recID": 0,
+			"ifTyphoon": 0,
+			"alarmArea": "深汕特别合作区",
+			"order": 21
+		}],
+		"alarmInfo": "【深圳市森林火险黄色预警】自15日起我市已持续出现干燥天气，预计未来3-4天干燥天气持续，深圳市气象台于2019年10月19日08时30分在全市陆地发布森林火险黄色预警，有关主管部门加大巡山护林力度，严格管制野外火源。",
+		"alarmDate": "2019-10-19 08:30:00",
+		"ingnalNum": "33554432",
+		"recID": "79985"
+	},
+	"success": true
+}

@@ -1,0 +1,9 @@
+{
+    "status": 1,
+    "message": "",
+    "data": {
+        "date": "2019年4月",
+        "waterQualityRate": "100%",
+        "betterThan2Standards": "100%"
+    }
+}
