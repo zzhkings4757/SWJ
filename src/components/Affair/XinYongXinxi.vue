@@ -22,6 +22,20 @@ export default {
       yearValue: '',
       option1: null
     }
+  },
+
+  created() {
+    this.getDataOne()
+  },
+
+  methods: {
+    getDataOne(){
+      this.$axios.get(this.axiosBaseUrl + "/affairs/getAdministrativePenalty?year="+this.yearValue, {}).then(res => {
+        console.log(res)
+      }).catch(err => {
+        console.log(err.stack);
+      });
+    }
   }
 }
 </script>
